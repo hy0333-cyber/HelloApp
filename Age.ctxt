@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Age
+comment0.text=public\ class\ Age{\r\n\ \ \ \ public\ static\ void\ main(String\ args[]){\r\n\ \ \ \ \ \ \ \ System.out.println("The\ distance\ 10.8\ km\ in\ miles\ is\:"+(10.8*1.6));\r\n\ \ \ \ }\r\n}
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
