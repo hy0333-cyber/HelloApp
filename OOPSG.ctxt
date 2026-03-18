@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OOPSG
+comment1.params=chars\ lineIndex
+comment1.target=java.lang.String\ buildLine(OOPSG.CharacterPatternMap[],\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
